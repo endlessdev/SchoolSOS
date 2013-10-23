@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="shadow_width">15dp</dimen>
+    <dimen name="slidingmenu_width">250dp</dimen>
+
+</resources>

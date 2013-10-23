@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item android:id="@+id/call_sos"
+          android:icon="@drawable/call"
+          android:title="전화신고"
+          android:showAsAction="ifRoom" />
+          
+    <item android:id="@+id/sms_sos"
+          android:icon="@drawable/sms"
+          android:title="문자신고"
+          android:showAsAction="ifRoom" />
+   
+    
+        <item android:id="@+id/setting"
+          android:icon="@drawable/action_settings"
+          android:title="설정"
+          android:showAsAction="ifRoom" />
+</menu>

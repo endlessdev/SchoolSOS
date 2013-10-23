@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">School SOS</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="main">메인</string>
+	<string name="main_sub">메인화면으로 이동합니다.</string>
+	
+	<string name="legal_info">법률정보</string>
+	<string name="legal_info_sub">학교폭력 법률정보를 확인합니다.</string>
+	
+	<string name="tip">TIP</string>
+	<string name="tip_sub">피해자들을 위한 TIP을 제공합니다.</string>
+	
+	<string name="counseling">상담센터</string>
+	<string name="counseling_sub">학교폭력 관련 상담을 할 수 있습니다.</string>
+	
+	<string name="app_notify">이 앱을 알리기</string>
+	<string name="app_notify_sub">주변친구들에게 이 앱을 알릴 수 있습니다.</string>
+	
+	<string name="setting">설정</string>
+	<string name="setting_sub">이 앱을 설정합니다.</string>
+	
+	<string name="callsos">전화신고</string>
+	<string name="smssos">문자신고</string>
+	
+    <string name="sheardmsg">학교폭력 예방을 위해선 주변친구들의 관심이 필요합니다. SchoolSOS 로 학교폭력을 예방하세요.</string>
+    
+    <string name="callsos">전화신고</string>
+    
+    <string name="exit">종료</string>
+    <string name="exit_sub">School SOS 를 종료합니다.</string>
+	
+</resources>

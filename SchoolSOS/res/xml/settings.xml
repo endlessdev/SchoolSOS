@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+ 
+    <PreferenceCategory
+        android:key="first_pref"
+        android:title="SafeLocker" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="service"
+            android:summary="SafeLocker 서비스를 활성화합니다."
+            android:title="SafeLocker 서비스 활성화" />
+        <EditTextPreference
+            android:dialogTitle="소유자 정보"
+            android:key="master_pref"
+            android:summary="소유자 정보를 입력합니다."
+            android:title="소유자 정보" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="second_pref"
+        android:title="FastSOS" >
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="fsos_service"
+            android:summary="FastSOS 서비스를 활성화합니다."
+            android:title="FastSOS 서비스 활성화" />
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="third_pref"
+        android:title="Application Info" >
+        <Preference
+            android:key="app_version"
+            android:summary="1.00 RC"
+            android:title="어플리케이션 버전" />
+        <Preference
+            android:key="app_developers"
+            android:title="개발자 정보" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

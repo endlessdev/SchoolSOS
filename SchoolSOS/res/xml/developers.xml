@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:key="pref_develpers"
+        android:title="Developers" >
+        <Preference android:layout="@layout/developer_img" />
+        <Preference
+            android:key="main_coder"
+            android:summary="염승우"
+            android:title="메인 코더" >
+        </Preference>
+    </PreferenceCategory>
+
+</PreferenceScreen>

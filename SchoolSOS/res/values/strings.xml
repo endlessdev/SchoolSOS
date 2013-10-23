@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">School SOS</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="main">Main</string>
+	<string name="main_sub">go to the Main</string>
+	
+	<string name="legal_info">Legal Information</string>
+	<string name="legal_info_sub">School violence law information.</string>
+	
+	<string name="tip">TIP</string>
+	<string name="tip_sub">피해자들을 위한 TIP을 제공합니다.</string>
+	
+	<string name="quittitle">Quit</string>
+    <string name="quitmessage">Do you quit DreamNarae?</string>
+    
+    <string name="lockscreenname">SafeLocker</string>
+</resources>
